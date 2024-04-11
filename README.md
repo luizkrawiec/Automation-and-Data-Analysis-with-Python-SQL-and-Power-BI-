@@ -12,5 +12,6 @@ Navigating through a competitive and fast-paced market, the dealership encounter
 
 I embraced a novel, efficiency-centric methodology, architecting an advanced system to automate spreadsheets through Python, with a particular emphasis on the pyODBC library for its integral role. PyODBC, a Python library that serves as a conduit, empowered my applications to interface directly with databases via the Open Database Connectivity (ODBC) framework. This selection facilitated a flawless amalgamation of data across diverse stakeholders into a unified SQL Server database, ensuring streamlined data communication and the establishment of a consistent, reliable information repository. This strategic eradication of duplications and fidelity assurance constituted a significant leap towards operational excellence through refined data management practices.
 
-![Texto Alternativo]([URL_da_Imagem](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%201.png))
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%201.png)
+
 
