@@ -1,0 +1,2 @@
+# Automation-and-Data-Analysis-with-Python-SQL-and-Power-BI-
+This repository highlights a project aimed at enhancing operational efficiency in a small car dealership through strategic automation and advanced data analysis. Complying with Brazil's LGPD and its equivalence to the EU's GDPR, the project transforms hypothetical data into actionable insights, inspired by real-world challenges and solutions.
