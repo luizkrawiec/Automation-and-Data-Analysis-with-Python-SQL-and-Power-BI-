@@ -18,6 +18,31 @@ I embraced a novel, efficiency-centric methodology, architecting an advanced sys
 
 ![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%203.png)
 
+**Value Addition:**
+
+The deployment of advanced analytics on SQL Server endowed the dealership's executive team with immediate access to updated, concrete insights, fostering decisions rooted in solid data. Additionally, by harnessing the Python schedule library’s straightforward, user-friendly task scheduling capabilities, I automated recurrent tasks, ensuring nightly updates of all spreadsheets. This automation guaranteed the continuous flow of the latest data into our analysis, sharpening the precision and relevance of our insights. Furthermore, employing the PyInstaller library, I transformed Python applications into standalone executables, facilitating effortless integration into the dealership's IT ecosystem without necessitating Python or any dependencies. The incorporation of Power BI for data visualization introduced a dynamic, compelling way for senior management to discern trends, pinpoint optimization avenues, and identify areas for enhancement, markedly improving decision-making processes.
+
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%204.png)
+
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%205.png)
+
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%206.png)
+
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%207.png)
+
+**Results:**
+
+The project yielded substantial gains, markedly diminishing the time allocated for data collection and preparation, thus liberating resources for strategic endeavors of higher value. The shift towards data-driven decisions precipitated tangible enhancements in operational efficacy, heightened customer satisfaction, and, consequently, sustainable organizational growth.
+
+**Conclusion:**
+
+The narrative of the Small-Sized National Car Dealership epitomizes the transformative essence of data analytics when employed with strategic acumen and ingenuity. By investing in data automation, consolidation, and visualization, the dealership not only augmented its operational efficiency but also fortified its market competitiveness in a continuously evolving landscape. This project stands as a testament to the boundless potential of leveraging data as a strategic asset to catalyze corporate triumph.
+
+
+
+
+
+
 
 
 
