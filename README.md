@@ -38,7 +38,7 @@ The project yielded substantial gains, markedly diminishing the time allocated f
 
 The narrative of the Small-Sized National Car Dealership epitomizes the transformative essence of data analytics when employed with strategic acumen and ingenuity. By investing in data automation, consolidation, and visualization, the dealership not only augmented its operational efficiency but also fortified its market competitiveness in a continuously evolving landscape. This project stands as a testament to the boundless potential of leveraging data as a strategic asset to catalyze corporate triumph.
 
-All .ipynb files are available in the repository for those interested in exploring the data analysis process further. For a detailed view of the data visualizations created with Power BI, please visit this link ![Texto Alternativo](https://app.powerbi.com/view?r=eyJrIjoiNjYwOTIzMzMtZjZjOS00OTA4LWI2MTEtMGQxNmViZjhiYzYxIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9). If you'd like to discuss this project or have any inquiries, feel free to contact me at luizkrawiec80@gmail.com or connect with me on LinkedIn ![Texto Alternativo](linkedin.com/in/luizkrawiec/)
+All .ipynb files are available in the repository for those interested in exploring the data analysis process further. For a detailed view of the data visualizations created with Power BI, please visit this link [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYwOTIzMzMtZjZjOS00OTA4LWI2MTEtMGQxNmViZjhiYzYxIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9). If you'd like to discuss this project or have any inquiries, feel free to contact me at luizkrawiec80@gmail.com or connect with me on LinkedIn ![Texto Alternativo](linkedin.com/in/luizkrawiec/)
 
 
 
