@@ -14,4 +14,10 @@ I embraced a novel, efficiency-centric methodology, architecting an advanced sys
 
 ![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%201.png)
 
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%202.png)
+
+![Texto Alternativo](https://github.com/luizkrawiec/imagens-kaggle-AED-credito/blob/main/tela%203.png)
+
+
+
 
